@@ -11,7 +11,7 @@ def game_hash()
       :assists => [12, 12, 10, 6, 2],
       :steals => [3, 12, 3, 3, 4],
       :blocks => [1, 12, 1, 8, 11],
-      :slam_dunks => [1, 7, 15, 5, 1]}},
+      :slam_dunks => [1, 7, 15, 5, 1]}}
   :away{
     :team_name => {"Charlotte Hornets"}
     :colors => {"Turquoise", "Purple"},
@@ -26,3 +26,5 @@ def game_hash()
       :blocks => [7, 15, 5, 1, 5],
       :slam_dunks => [2, 10, 5, 0, 12]}}
     }
+
+def 
