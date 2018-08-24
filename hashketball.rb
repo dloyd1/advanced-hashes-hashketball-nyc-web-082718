@@ -5,13 +5,13 @@ def game_hash()
     :players => {
                   { :name => {["Alan Anderson", "Reggie Evangs", "Brook Lopez", "Mason Plumlee", "Jason Terry"]},
                     :number => {[0, 30, 11, 1, 31]}
-                    shoe: ,
-                    points: ,
-                    rebounds: ,
-                    assists: ,
-                    steals: ,
-                    blockes: ,
-                    slam_dunks:
+                    :shoe ,
+                    :points ,
+                    :rebounds ,
+                    :assists ,
+                    :steals ,
+                    :blocks ,
+                    :slam_dunks
                 },
                 }
 },
