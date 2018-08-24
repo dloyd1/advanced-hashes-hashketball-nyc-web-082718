@@ -15,7 +15,7 @@ def game_hash()
   :home{
     :team_name => {"Charlotte Hornets"}
     :colors => {"Turquoise", "Purple"},
-    :players => {:number,
+    :players => {name: , shoe: , points: , rebounds: , assists: , steals: , blockers: , slam_dunks:
              :shoe,
              :points,
              :rebounds,
